@@ -1,0 +1,25 @@
+body {
+    background-color: lightpink;
+}
+
+.centerPiece {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1, p {
+    text-align: center;
+    color: #339582;
+}
+
+.eliseImg {
+    /*border: #339582 2px solid;*/
+    width: auto;
+    height: 500px;
+}
+
+.construction {
+    font-size: 24px;
+    line-height: 1px;
+}
