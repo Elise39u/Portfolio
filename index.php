@@ -27,12 +27,18 @@
         <div class="floatLeft">
             <h2 class="introductionH2"> Elise is the name a miku fan of heart</h2>
             <p class="introductionText"> Hi there im Elise. I'm a huge fan of Hatsune Miku and currently studying an IT bachelor. <br>
+            Im 23 years old as of moment of typing and live on my own <br>
             In my free time I like to be a content creator on the internet. <br>
             I often make YouTube content and stream on twitch. I also tend to make stuff for myself <br>
             Like for example I made a discord python bot that run on repel in my own twitch server. <br>
             This is how I live and code my way around on the internet. It's quite an adventure. <br>
             Interested in the content I make on Youtube or twitch?. <br>
             Let me show you my mark powers and watch the video on the page.</p>
+            <p class="introductionText"> I also like to draw and play games. I'm very creative <br>
+            Something you think might be obvious with the all the content creation <br>
+            I mostly like to play with friends but don't hesitate to play something on my own <br>
+            Well you know introverted nature.  But feel free to look further around <br>
+            With love your trans girl Elise &#10084; </p>
         </div>
     </div>
 
