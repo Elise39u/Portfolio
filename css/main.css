@@ -1,6 +1,7 @@
 body {
     background-color: lightpink;
     margin: 5px;
+    justify-content: center;
 }
 
 .centerPiece {
@@ -17,7 +18,7 @@ body {
 
 .centerWelcomeText {
     text-align: center;
-    line-height: 1px;
+    /* line-height: 1px; */
     color: #339582;
 }
 
@@ -30,8 +31,17 @@ body {
     color: #339582;
 }
 
+.introductionH2 {
+    text-align: center;
+}
+
 .introductionText {
     font-size: 18px;
+    text-align: center;
+}
+
+.iframeTxt {
+    text-align: center;
 }
 
 iframe {
@@ -47,17 +57,18 @@ iframe {
     font-size: 24px;
 }
 
-.floatLeft {
+.floatDiv {
+    display: inline-block;
     float: left;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 
 /*https://codepen.io/bstonedev/pen/MWWZgKz */
 .tile {
-    height:400px;
+    /*height:400px;*/
     margin-top:40px;
-   /* background: #ffffff;*/
+    /* background: #ffffff;*/
     -webkit-transform: translateY(50px) rotate(-5deg) translateZ(0);
     transform: translateY(50px) rotate(-5deg) translateZ(0);
     -webkit-transition-delay: .3s;
