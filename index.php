@@ -43,10 +43,27 @@
 </div>
 
 <div class="tile bottom-right">
-    <h1 class="mainH1"> Socials of Elise </h1>
-    <p class="textSocials"> coming very very soon</p>
+    <h1 class="mainH1"> Socials of the girl with the mark</h1>
     <div class="centerPiece">
-        <img class="eliseImg" src="https://i.imgflip.com/72d9gb.jpg" alt="waiting meme">
+    <!-- https://www.svgrepo.com/ -->
+    <a href="https://www.twitch.tv/hatsune_juju">
+        <img class="twitch svgIcons" src="img/SVGIcons/twitch-svgrepo-com.svg">
+    </a>
+    <a href="https://www.instagram.com/twitch_hatsunejuju/">
+        <img class="insta svgIcons" src="img/SVGIcons/instagram-svgrepo-com.svg">
+    </a>
+    <a href="https://twitter.com/TJuju124">
+        <img class="twitter svgIcons" src="img/SVGIcons/twitter-svgrepo-com.svg">
+    </a>
+    <a href="https://www.youtube.com/channel/UCFK1FzoHQ3XlQaqejb3fGMg">
+        <img class="youtubeMain svgIcons" src="img/SVGIcons/youtube-svgrepo-com.svg">
+    </a>
+    <a href="https://www.youtube.com/channel/UCpGrqQTMjFGFecEMd7F3YcQ">
+        <img class="youtubeVods svgIcons" src="img/SVGIcons/youtube-svgrepo-com.svg">
+    </a>
+    <a href="https://steamcommunity.com/id/HatsuneJuju/">
+        <img class="steam svgIcons" src="img/SVGIcons/steam-svgrepo-com.svg">
+    </a>
     </div>
 </div>
 </body>

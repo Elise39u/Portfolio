@@ -7,7 +7,6 @@ body {
 .centerPiece {
     display: flex;
     justify-content: center;
-
 }
 
 .eliseImg {
@@ -95,4 +94,37 @@ iframe {
 }
 section {
     padding:20px;
+}
+
+.svgIcons {
+    width: 125px;
+    height: auto;
+    padding: 5px;
+}
+
+/*
+    https://codepen.io/sosuke/pen/Pjoqqp
+ */
+.twitch {
+    filter: invert(50%) sepia(53%) saturate(1872%) hue-rotate(223deg) brightness(90%) contrast(89%);
+}
+
+.youtubeMain {
+    filter: invert(46%) sepia(55%) saturate(442%) hue-rotate(118deg) brightness(96%) contrast(89%);
+}
+
+.youtubeVods {
+    filter: invert(13%) sepia(41%) saturate(4666%) hue-rotate(347deg) brightness(97%) contrast(122%);
+}
+
+.twitter {
+    filter: invert(59%) sepia(74%) saturate(1798%) hue-rotate(136deg) brightness(88%) contrast(101%);
+}
+
+.insta {
+    filter: invert(56%) sepia(97%) saturate(1391%) hue-rotate(295deg) brightness(101%) contrast(100%);
+}
+
+.steam {
+    filter: invert(10%) sepia(62%) saturate(6826%) hue-rotate(242deg) brightness(69%) contrast(134%);
 }
