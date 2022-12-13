@@ -64,9 +64,19 @@
     <a href="https://steamcommunity.com/id/HatsuneJuju/">
         <img class="steam svgIcons" src="img/SVGIcons/steam-svgrepo-com.svg">
     </a>
+    <a href="https://discord.gg/3P9Nwya">
+        <img class="discord svgIcons" src="img/SVGIcons/discord-svgrepo-com.svg">
+    </a>
     </div>
 </div>
 </body>
+
+<div class="tile bottom-right">
+    <h1 class="mainH1"> Streaming and Upload Schedule </h1>
+    <p class="centerWelcomeText pEle"> Coming in the next update</p>
+</div>
+</body>
+
 
 <script src="js/scroll.js"></script>
 </html>

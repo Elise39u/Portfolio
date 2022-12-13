@@ -128,3 +128,7 @@ section {
 .steam {
     filter: invert(10%) sepia(62%) saturate(6826%) hue-rotate(242deg) brightness(69%) contrast(134%);
 }
+
+.discord {
+    filter: invert(25%) sepia(78%) saturate(5987%) hue-rotate(272deg) brightness(94%) contrast(103%);
+}
