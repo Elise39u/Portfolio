@@ -40,11 +40,14 @@
     <div class="centerPiece">
         <img alt="picture about me" class="eliseImg" src="img/Elise.png">
     </div>
+    <!--
     <p class="centerWelcomeText pEle"> Hi there I'm Elise. <br>
         A transgender girl living her way around the internet <br>
         You may also know me as Hatsune Elise or Hatsune juju </p>
+        -->
 </div>
 
+<!--
 <div class="tile bottom-right">
     <h1 class="mainH1">Introduction about the girl with the mark</h1>
     <p class="iframeTxt"> <iframe width="560" height="315"
@@ -115,7 +118,7 @@
     <p class="centerWelcomeText pEle"> Coming soon in the next update </p>
 </div>
 </body>
-
+-->
 
 <script src="js/scroll.js"></script>
 </html>

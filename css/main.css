@@ -1,5 +1,7 @@
 body {
-    background-color: lightpink;
+    background: url("../img/Background.png") no-repeat;
+    background-size: 100%;
+    <!-- background-color: lightpink; -->
     margin: 5px;
     justify-content: center;
 }
@@ -87,6 +89,11 @@ iframe {
     .svgIcons {width: 50px; padding: 0px 10px;}
 }
 
+.bottom-right {
+    margin-left: 20%;
+    padding: 0px 10px;
+}
+
 .bottom-right ul {
     text-align: center;
     font-size: 18px;
@@ -117,8 +124,6 @@ li {
      */
 }
 .bottom-right.inView {
-    margin-left: 20%;
-    padding: 0px 10px;
     opacity: 1;
     -webkit-transform: translateY(0px) rotate(0deg) translateZ(0);
     transform: translateY(0px) rotate(0deg) translateZ(0);
